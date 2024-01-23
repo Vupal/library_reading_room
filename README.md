@@ -1,5 +1,3 @@
-![Uploading Screenshot 2024-01-23 110454.png…]()
-
 # Project: Library Reading Room
 
 Implementing a Library Reading Room Management System that includes features such as seat availability tracking, student entry and exit times, and seat management involves several steps within a System Development Life Cycle (SDLC) model. I'll provide a brief overview using an Agile approach, as it is well-suited for projects with changing or evolving requirements.
