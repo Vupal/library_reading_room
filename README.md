@@ -1,3 +1,7 @@
+
+![Screenshot 2024-01-23 110454](https://github.com/Vupal/library_reading_room/assets/91136088/b908ee04-0091-450b-9ec5-3fe8625af75f)
+
+
 # Project: Library Reading Room
 
 Implementing a Library Reading Room Management System that includes features such as seat availability tracking, student entry and exit times, and seat management involves several steps within a System Development Life Cycle (SDLC) model. I'll provide a brief overview using an Agile approach, as it is well-suited for projects with changing or evolving requirements.
