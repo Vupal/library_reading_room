@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="Aditi_Student_Reading_Room">
+  <grid id="27dc6" binding="Main" layout-manager="GridLayoutManager" row-count="14" column-count="4" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="10" left="10" bottom="20" right="20"/>
+    <constraints>
+      <xy x="20" y="20" width="689" height="420"/>
+    </constraints>
+    <properties>
+      <background color="-10032151"/>
+      <font name="Lucida Sans Typewriter" size="18" style="0"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="37186" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="3" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Lucida Sans Typewriter" size="26" style="0"/>
+          <foreground color="-1350070"/>
+          <text value="LIBRARY READING ROOM HOMPAGE"/>
+        </properties>
+      </component>
+      <component id="6deeb" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="3" column="0" row-span="10" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <icon value="HSTU_Logo.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <hspacer id="cb3b4">
+        <constraints>
+          <grid row="0" column="3" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </hspacer>
+      <vspacer id="3bdd5">
+        <constraints>
+          <grid row="13" column="0" row-span="1" col-span="3" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </vspacer>
+      <component id="a68f7" class="javax.swing.JLabel" binding="l2">
+        <constraints>
+          <grid row="4" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Lucida Sans Typewriter" size="18" style="0"/>
+          <text value="1.Show Seat"/>
+        </properties>
+      </component>
+      <component id="d58a4" class="javax.swing.JLabel" binding="l3">
+        <constraints>
+          <grid row="5" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Lucida Sans Typewriter" size="18" style="0"/>
+          <text value="2.Display Today's student Information"/>
+        </properties>
+      </component>
+      <component id="4b32a" class="javax.swing.JLabel" binding="l5">
+        <constraints>
+          <grid row="7" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+            <preferred-size width="54" height="31"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font name="Lucida Sans Typewriter" size="18" style="0"/>
+          <text value="3.Helpline"/>
+        </properties>
+      </component>
+      <component id="9c225" class="javax.swing.JLabel" binding="l6">
+        <constraints>
+          <grid row="8" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Lucida Sans Typewriter" size="18" style="0"/>
+          <text value="4.Library Information"/>
+        </properties>
+      </component>
+      <component id="6f271" class="javax.swing.JLabel" binding="l7">
+        <constraints>
+          <grid row="9" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Lucida Sans Typewriter" size="18" style="0"/>
+          <text value="5.Library Notice"/>
+        </properties>
+      </component>
+      <component id="c6294" class="javax.swing.JLabel" binding="l9">
+        <constraints>
+          <grid row="10" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Lucida Sans Typewriter" size="18" style="0"/>
+          <text value="6.Exit from Library"/>
+        </properties>
+      </component>
+      <component id="ecd6e" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="2509e" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="31382" class="javax.swing.JLabel" binding="l8">
+        <constraints>
+          <grid row="11" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Lucida Sans Typewriter" size="18" style="0"/>
+          <text value="7.Back"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

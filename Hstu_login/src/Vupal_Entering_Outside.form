@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="Vupal_Entering_Outside">
+  <grid id="27dc6" binding="kl" layout-manager="GridLayoutManager" row-count="6" column-count="3" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="716" height="396"/>
+    </constraints>
+    <properties>
+      <background color="-1576283"/>
+      <enabled value="true"/>
+      <font name="Lucida Sans Typewriter" size="22" style="0"/>
+    </properties>
+    <border type="none" title-justification="2" title-position="2">
+      <font/>
+      <title-color color="-1202606"/>
+    </border>
+    <children>
+      <component id="ebbd" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="3" vsize-policy="0" hsize-policy="0" anchor="2" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-2148885"/>
+          <enabled value="true"/>
+          <font name="Lucida Sans Typewriter" size="26" style="0"/>
+          <horizontalAlignment value="0"/>
+          <horizontalTextPosition value="0"/>
+          <text value="               Movement Options               "/>
+        </properties>
+      </component>
+      <component id="124b4" class="javax.swing.JLabel" binding="e1">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="3" vsize-policy="0" hsize-policy="0" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <enabled value="false"/>
+          <font name="Lucida Sans Typewriter" size="16" style="1"/>
+          <horizontalAlignment value="2"/>
+          <text value="                              1.Student Entry"/>
+        </properties>
+      </component>
+      <component id="7b3e8" class="javax.swing.JLabel" binding="e2">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="3" vsize-policy="0" hsize-policy="0" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <enabled value="false"/>
+          <font name="Lucida Sans Typewriter" size="16" style="1"/>
+          <horizontalAlignment value="2"/>
+          <horizontalTextPosition value="10"/>
+          <text value="                              2.Student Exit"/>
+        </properties>
+      </component>
+      <component id="d7b58" class="javax.swing.JLabel" binding="a4">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="3" vsize-policy="0" hsize-policy="0" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <enabled value="false"/>
+          <font name="Lucida Sans Typewriter" size="16" style="1"/>
+          <horizontalAlignment value="2"/>
+          <horizontalTextPosition value="10"/>
+          <text value="                              3.Exit"/>
+        </properties>
+      </component>
+      <vspacer id="35557">
+        <constraints>
+          <grid row="5" column="0" row-span="1" col-span="3" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </vspacer>
+      <vspacer id="76940">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </vspacer>
+    </children>
+  </grid>
+</form>
